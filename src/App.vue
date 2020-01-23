@@ -23,7 +23,7 @@ export default {
     'app-mobileheader':Mobileheader,
   },
   name: 'App'
-}
+}   
 </script>
 
 <style>
